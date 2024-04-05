@@ -3,6 +3,5 @@ public class MyFile{
 		System.out.println("Hello");
 		System.out.println("Good Morning");
 		System.out.println("Ram Ram Mandali");
-		System.out.print("H);
 	}
 }
